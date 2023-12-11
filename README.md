@@ -1,6 +1,6 @@
 Nombre: Martin Eduardo Pino Cornejo
 
-Nombre: Luciano Alexis Nicolas Yevenes Cotal [Github](https://github.com/lucio0809)
+Nombre: Luciano Alexis Nicolas Yevenes Cotal [(Github)](https://github.com/lucio0809)
 
 Todas las pruebas fueron ejecutadas en gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
 
